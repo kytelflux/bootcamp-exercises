@@ -1,0 +1,22 @@
+html {
+    font-family: sans-serif;}
+
+body {
+    color: black
+}
+
+h1 {
+    font-size: 1.8em;
+    font-weight: normal;
+    color: red;
+}
+
+h2 {
+    font-weight: normal;
+}
+
+p {
+    line-height: 1.6
+}
+
+

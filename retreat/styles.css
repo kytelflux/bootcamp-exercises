@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;}
+
+html {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    font-size: 3rem;
+}
+
+h2 {
+    text-align: center;
+    font-weight: 1500;
+}
+body {
+    background: url("graphics/bg.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+
+.container {
+    width: 40em;
+    margin: auto;
+}
+
+p {
+    line-height: 120%;
+}
+
+.intro {
+    font-weight: bold;
+}
